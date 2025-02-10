@@ -2,7 +2,7 @@
  * Author :- Vishal Kumar Maurya (2022580) *
  *******************************************
 
-Hello, in this maven project, I have implemented a library system for triple IIITD library system can be used very efficiently by providing valid inputs into the program.
+Hello, in this maven project, I have implemented a library system for IIITD library system can be used very efficiently by providing valid inputs into the program.
 It also calculates fines as the information provided by the pdf of assignment. It has many features like adding book, removing book, adding member, removing member, issuing a book, paying fine, returning book with balancing, etc.
 
 The code works fine with Maven, I have also updated the pom.xml file
